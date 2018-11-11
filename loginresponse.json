@@ -1,0 +1,26 @@
+{
+    "error": false,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1biI6InJvc2hlbkAxMjM0IiwicHciOiIxMjM0IiwiaWF0IjoxNTM2ODQzNTYzfQ.vZCDvGejMStQsUpKMKlr5mknPdSN_r6pnOGIWwxC-6k",
+    "message": "Login Successfull",
+    "data": [
+        {
+            "idsales_person": 2,
+            "salesperson_code": "CM1SP",
+            "salesperson_code_count": 1,
+            "salesperson_username": "roshen@1234",
+            "salesperson_name": "Roshen Rodrigo",
+            "salesperson_addrLine1": "252",
+            "salesperson_addrLine2": "Minuwangoda",
+            "salesperson_telephone": "0771826232",
+            "salesperson_mobile": "0112728372",
+            "salesperson_email": "roshen@gmail.com",
+            "company_idcompany": 1,
+            "idcompany": 1,
+            "company_name": "Diletro Clothing (Private) Limited",
+            "addrsLine_1": "234/2",
+            "addrsLine_2": "Main Street",
+            "city": "Hanwalla",
+            "telephone": "0115726362"
+        }
+    ]
+}

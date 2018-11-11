@@ -1,0 +1,20 @@
+{
+  "name": "handisale",
+  "version": "1.0.0",
+  "description": "Rest API for Acutec pvt(Lmt)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kasun Sampath Adhikari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "circular-json": "^0.5.5",
+    "express": "^4.16.3",
+    "file-system": "^2.2.2",
+    "jsonwebtoken": "^8.3.0",
+    "mysql": "github:mysqljs/mysql",
+    "nodemon": "^1.18.3"
+  }
+}
